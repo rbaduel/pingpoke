@@ -1,0 +1,5 @@
+# virtualenv installation
+# pip install -r requirements.txt
+
+requests>=2.25.0
+ping3>=4.0.0
