@@ -20,12 +20,12 @@ GRAY = "\033[90m"
 RESET = "\033[0m"
 
 servers = {
-    "sslvpn.traxtech.com": {"location": ""},
-    "traxtech.com": {"location": ""},
-    "b2b.veraction.com": {"location": ""},
-    "speedtest.ph": {"location": ""},
-    "speedtest.com.sg": {"location": ""},
-    "speedtest.london.linode.com": {"location": ""},
+    "": {"location": ""},
+    "": {"location": ""},
+    "": {"location": ""},
+    "": {"location": ""},
+    "": {"location": ""},
+    "": {"location": ""},
 }
 
 interval = 2
@@ -94,7 +94,7 @@ try:
 
         vpn_status = vpn_connected()
         vpn_text = f"{GREEN}CONNECTED{RESET}" if vpn_status else f"{RED}DISCONNECTED{RESET}"
-        print(f"TraxTech VPN: {vpn_text}")
+        print(f"VPN Status: {vpn_text}")
 
         print(f"{'Server':<30} {'Location/Region':<25} {'Ping/ms':<12} {'Packet Drops':<15}")
         print("-" * 85)
