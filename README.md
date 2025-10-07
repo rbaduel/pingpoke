@@ -60,10 +60,7 @@ System Time: 2024-01-15 14:30:25
 VPN Status: CONNECTED
 
 Server                        Location/Region          Ping/ms      Packet Drops    
--------------------------------------------------------------------------------------
-sslvpn.traxtech.com           New York, US             45.23 ms     0%              
-traxtech.com                  New York, US             52.10 ms     0%              
-b2b.veraction.com             London, GB               125.45 ms    0%              
+-------------------------------------------------------------------------------------           
 speedtest.ph                  Manila, PH               89.67 ms     0%              
 speedtest.com.sg              Singapore, SG            156.78 ms    0%              
 speedtest.london.linode.com   London, GB               118.90 ms    0%              
