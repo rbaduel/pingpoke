@@ -31,6 +31,8 @@ A lightweight Python3 script designed to monitor network latency and VPN connect
 1. Clone or download this repository
 2. Install dependencies:
    ```bash
+   python3 -m venv venv3
+   source venv3/bin/activate
    pip install -r requirements.txt
    ```
 
