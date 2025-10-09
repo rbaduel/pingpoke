@@ -1,0 +1,5 @@
+Changelog~
+
+10.09.2025
+    - includes rolling packet loss over last 50 pings
+    - fixes alignment and rolling packet loss
