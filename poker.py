@@ -21,10 +21,6 @@ GRAY = "\033[90m"
 RESET = "\033[0m"
 
 servers = {
-    "sslvpn.traxtech.com": {"location": ""},
-    "traxtech.com": {"location": ""},
-    "b2b.veraction.com": {"location": ""},
-    "ttsm-002-console.traxtech.com": {"location": ""},
     "speedtest.ph": {"location": ""},
     "speedtest.com.sg": {"location": ""},
     "speedtest.london.linode.com": {"location": ""},
